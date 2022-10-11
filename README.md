@@ -49,3 +49,17 @@
   <a href="https://www.linkedin.com/in/leonardoschneider2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+  
+## Quem sou eu
+  
+  <p> Em Breve... </p>
+  
+  
+## Experiências Profissionais
+  
+  <p> Em Breve... </p>
+  
+  
+## Experiências Acadêmicas
+  
+  <p> Em Breve... </p>
