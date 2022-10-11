@@ -1,5 +1,12 @@
 ## Olá! Eu sou Leonardo Schneider 👋
 
+<ul>
+  <li>🔭 Atualmente tenho disponibilidade para empregar como desenvolvedor Front-End</li>
+  <li>🌱 Tenho me destinado à aprender Node.js e Mysqk</li>
+  <li>💬 Gosto de conversar sobre o mundo de esportes radicais, filosofia e investimentos</li>
+  <li>🤓 Sou pessoa estudando de Desenvolvimento Web pela Trybe</li>
+</ul>
+
 <hr>
 
 <div align="center">
