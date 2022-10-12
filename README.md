@@ -9,7 +9,7 @@
 
 <hr>
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/leonardoschneider2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoschneider2&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoschneider2&layout=compact&langs_count=5&theme=great-gatsby"/>
