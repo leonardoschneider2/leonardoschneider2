@@ -4,7 +4,7 @@
   <li>🔭 Disponibilidade para empregar como desenvolvedor Front-End #OpenToWork</li>
   <li>🌱 Tenho estudado atualmente Java, PHP, Typescript, Python e MongoDB</li>
   <li>💬 Gosto de conversar sobre o mundo de esportes radicais, filosofia e investimentos</li>
-  <li>🤓 Sou pessoa estudando de Desenvolvimento Web pela Trybe</li>
+  <li>🤓 Sou pessoa estudante de Desenvolvimento Web pela Trybe</li>
 </ul>
 
 <hr>
