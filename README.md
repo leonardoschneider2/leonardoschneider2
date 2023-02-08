@@ -2,7 +2,7 @@
 
 <ul>
   <li>🔭 Disponibilidade para empregar como desenvolvedor Front-End #OpenToWork</li>
-  <li>🌱 Tenho estudado atualmente Node.js e Mysql</li>
+  <li>🌱 Tenho estudado atualmente Java, PHP, Typescript, Python e MongoDB</li>
   <li>💬 Gosto de conversar sobre o mundo de esportes radicais, filosofia e investimentos</li>
   <li>🤓 Sou pessoa estudando de Desenvolvimento Web pela Trybe</li>
 </ul>
