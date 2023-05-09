@@ -2,7 +2,7 @@
 
 <ul>
   <li>🔭 Disponibilidade para empregar como desenvolvedor Front-End, Backend ou FullStack #OpenToWork</li>
-  <li>🌱 Tenho estudado atualmente Java, PHP e Python</li>
+  <li>🌱 Tenho estudado atualmente PHP e Python</li>
   <li>💬 Gosto de conversar sobre o mundo de esportes radicais, filosofia e investimentos</li>
   <li>🤓 Sou pessoa estudante de Desenvolvimento Web pela Trybe e graduando na Faculdade Newton Paiva (1º Per. Ciência da Computação)</li>
 </ul>
